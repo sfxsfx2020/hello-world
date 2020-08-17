@@ -1,2 +1,3 @@
 # hello-world
-Created for CS50
+Created this for CS50
+Haven't edited anything yet. 
